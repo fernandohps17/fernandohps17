@@ -9,7 +9,7 @@ Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabaj
 
 ### Me dedico a desarrollar software
 
-- 👨🏻‍💻 Actualmente trabajo en [CannedHead](https://www.servynet.es/).
+- 👨🏻‍💻 Actualmente trabajo en [Servynet](https://www.servynet.es/).
 - 💼 Desarrollo y soporte a software web y paginas web's.
 - 🤺 Mi perfil profesional lo puedes encontrar en [LinkedIn](https://www.linkedin.com/in/fernando-perez-42baa4203/).
 - 👨🏻‍🔬 Actualmente estoy aprendiendo sobre aws e ingles.
