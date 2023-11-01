@@ -7,7 +7,7 @@ Soy programador Frontend Developer con mas de 3 años de experiencia en la indus
 
 Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabajo en equipo.
 
-### Me dedico a desarrollar software
+### Me dedico a desarrollar software y paginas web's
 
 - 👨🏻‍💻 Actualmente trabajo en [Servynet](https://www.servynet.es/).
 - 💼 Desarrollo y soporte a software web y paginas web's.
