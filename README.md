@@ -36,7 +36,7 @@ Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabaj
 
 ---
 
-### Mis redes sociales
+### Idiomas
 
 <ul>ESP - Nativo</ul>
 <ul>ENG - INTERMEDIO</ul>
