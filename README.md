@@ -38,8 +38,8 @@ Tengo sólidos conocimientos en desarrollo web, experiencia de usuarios y trabaj
 
 ### Idiomas
 
-<ul>ESP - Nativo</ul>
-<ul>ENG - INTERMEDIO</ul>
+<li>ESP - Nativo</li>
+<li>ENG - INTERMEDIO</li>
 
 ---
 
